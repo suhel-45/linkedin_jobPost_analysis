@@ -6,7 +6,7 @@ In this project,we building an ETL pipeline  using Rapidapi's `Rapid Linkedin Jo
 
 
 ## **System Architecture**
-![Alt text](visual.png)
+![Alt text](Architecture_Diagram.png)
 
 ## 1 **Extract:** 
 - We used `Rapidapi's` `Rapid Linkedin Jobs API` to fetch data for our project.   
